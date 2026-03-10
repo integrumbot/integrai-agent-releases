@@ -4,11 +4,11 @@
 
 ## Скачать
 
-**[Скачать последнюю версию](https://github.com/integrumbot/integrai-print-releases/releases/latest)**
+**[Скачать последнюю версию](https://github.com/integrumbot/integrai-agent-releases/releases/latest)**
 
 | Платформа | Файл | Размер |
 |-----------|------|--------|
-| Windows 10/11 | `IntegrAI-PRINT.exe` | ~72 MB |
+| Windows 10/11 | `IntegrAI-Agent Setup.exe` | ~72 MB |
 
 ## Как начать
 
